@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Sweden",
+    "countryCode": "SE",
+    "currency": "Krona"
+  },
+  {
+    "name": "Albania",
+    "countryCode": "A",
+    "currency": "Lek"
+  },
+  {
+    "name": "Canada",
+    "countryCode": "CA",
+    "currency": "Dollar"
+  },
+  {
+    "name": "Greece",
+    "countryCode": "GR",
+    "currency": "Euro"
+  },
+  {
+    "name": "Pakistan",
+    "countryCode": "PK",
+    "currency": "Rupee"
+  },
+  {
+    "name": "Nigeria",
+    "countryCode": "NG",
+    "currency": "Naira"
+  },
+  {
+    "name": "China",
+    "countryCode": "CN",
+    "currency": "Yuan Renminbi"
+  },
+  {
+    "name": "Ghana",
+    "countryCode": "GH",
+    "currency": "Cedi"
+  },
+  {
+    "name": "Thailand",
+    "countryCode": "TH",
+    "currency": "Baht"
+  },
+  {
+    "name": "Russia",
+    "countryCode": "RU",
+    "currency": "Ruble"
+  },
+  {
+    "name": "Iran",
+    "countryCode": "IR",
+    "currency": "Rial"
+  },
+  {
+    "name": "Israel",
+    "countryCode": "IL",
+    "currency": "Shekel"
+  },
+  {
+    "name": "Uganda",
+    "countryCode": "UG",
+    "currency": "Shilling"
+  },
+  {
+    "name": "United States",
+    "countryCode": "US",
+    "currency": "Dollar"
+  },
+  {
+    "name": "Peru",
+    "countryCode": "PE",
+    "currency": "Sol"
+  },
+  {
+    "name": "Ukraine",
+    "countryCode": "UA",
+    "currency": "Hryvnia"
+  },
+  {
+    "name": "Brazil",
+    "countryCode": "BR",
+    "currency": "Real"
+  },
+  {
+    "name": "Afghanistan",
+    "countryCode": "AF",
+    "currency": "Afghani"
+  },
+  {
+    "name": "Czech Republic",
+    "countryCode": "CZ",
+    "currency": "Koruna"
+  },
+  {
+    "name": "South Africa",
+    "countryCode": "ZA",
+    "currency": "Rand"
+  },
+  {
+    "name": "Somalia",
+    "countryCode": "SO",
+    "currency": "Shilling"
+  },
+  {
+    "name": "Poland",
+    "countryCode": "PL",
+    "currency": "Zloty"
+  },
+  {
+    "name": "Philippines",
+    "countryCode": "PH",
+    "currency": "Peso"
+  },
+  {
+    "name": "Indonesia",
+    "countryCode": "ID",
+    "currency": "Rupiah"
+  },
+  {
+    "name": "Ireland",
+    "countryCode": "IE",
+    "currency": "Euro"
+  },
+  {
+    "name": "Morocco",
+    "countryCode": "MA",
+    "currency": "Dirham"
+  },
+  {
+    "name": "Belgium",
+    "countryCode": "BE",
+    "currency": "Euro"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "countryCode": "BA",
+    "currency": "Marka"
+  },
+  {
+    "name": "Netherlands",
+    "countryCode": "NL",
+    "currency": "Euro"
+  },
+  {
+    "name": "Portugal",
+    "countryCode": "PT",
+    "currency": "Euro"
+  },
+  {
+    "name": "Japan",
+    "countryCode": "JP",
+    "currency": "Yen"
+  },
+  {
+    "name": "Belarus",
+    "countryCode": "BY",
+    "currency": "Ruble"
+  },
+  {
+    "name": "Eritrea",
+    "countryCode": "ER",
+    "currency": "Nakfa"
+  },
+  {
+    "name": "Sri Lanka",
+    "countryCode": "LK",
+    "currency": "Rupee"
+  },
+  {
+    "name": "Lithuania",
+    "countryCode": "LT",
+    "currency": "Litas"
+  },
+  {
+    "name": "El Salvador",
+    "countryCode": "SV",
+    "currency": "Dollar"
+  },
+  {
+    "name": "Hungary",
+    "countryCode": "HU",
+    "currency": "Forint"
+  },
+  {
+    "name": "Kazakhstan",
+    "countryCode": "KZ",
+    "currency": "Tenge"
+  },
+  {
+    "name": "Malaysia",
+    "countryCode": "MY",
+    "currency": "Ringgit"
+  },
+  {
+    "name": "Mongolia",
+    "countryCode": "MN",
+    "currency": "Tugrik"
+  },
+  {
+    "name": "Venezuela",
+    "countryCode": "VE",
+    "currency": "Bolivar"
+  },
+  {
+    "name": "Comoros",
+    "countryCode": "KM",
+    "currency": "Franc"
+  },
+  {
+    "name": "Argentina",
+    "countryCode": "AR",
+    "currency": "Peso"
+  },
+  {
+    "name": "Croatia",
+    "countryCode": "HR",
+    "currency": "Kuna"
+  },
+  {
+    "name": "Myanmar",
+    "countryCode": "MM",
+    "currency": "Kyat"
+  }
+]

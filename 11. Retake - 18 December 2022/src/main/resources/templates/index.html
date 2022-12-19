@@ -1,0 +1,36 @@
+</body>
+</html>
+<th:block th:fragment xmlns:th="http://www.w3.org/1999/xhtml">
+    <div class="container justify-content-center mt-3">
+        <div class="jumbotron index-jumbo d-flex justify-content-center bg-blur">
+            <div class="container">
+                <div class="col-md-12 d-flex border-left border-bottom w-50 ">
+                    <h1 class="myBackgroundColor ">Job Finder</h1>
+                </div>
+                <div class="col-md-12 d-flex mt-3">
+                    <h4>
+                        &nbsp;&nbsp;&nbsp;Our mission is to help people get job. We foster a collaborative workplace that strives to
+                        put job seekers first, giving them free access to search for job, post resumes,
+                        and research company. Every day, we connect millions of people to new opportunities.
+                        <br/>
+                        &nbsp;&nbsp;&nbsp;The Job Finder owner has turned to SoftUni for help. Now a small team led by you
+                        must take on this task.
+                        <br/>
+                    </h4>
+                </div>
+                <div class="col-md-12 text-center">
+                    <th:block th:if="${areImported == true}">
+                        <p><a class="btn btn-warning export-button text-white" th:href="@{/export/best-jobs}">Find the best jobs</a></p>
+                    </th:block>
+                    <div class="col-md-12 d-flex justify-content-center">
+                        <th:block th:if="${areImported == false}">
+                            <p class="myBackgroundColor rounded p-2">Тo see the next task, first import all JSON and XML
+                                files.</p>
+                        </th:block>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</th:block>
